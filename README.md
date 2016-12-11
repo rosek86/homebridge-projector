@@ -9,6 +9,10 @@ The infra-read receiver and transmitter has to be connected to Raspberry Pi and 
 
 # Raspberry Pi
 
+## Required Parts
+
+[Proto Plate](https://www.adafruit.com/products/2310)
+
 TODO: hook up drawing goes here 
 
 # LIRC
