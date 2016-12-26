@@ -20,7 +20,7 @@ The infra-read receiver and transmitter has to be connected to Raspberry Pi and 
 
 ## Hook up
 
-![Hook up](https://raw.githubusercontent.com/rosek86/homebridge-projector/master/img/homebridge-projector_bb.svg)
+![Hook up](img/homebridge-projector_bb.png?raw=true)
 
 # LIRC
 
