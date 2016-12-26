@@ -1,4 +1,7 @@
 lib/**/*
+accessory/**/*
 node_modules/**/*
 index.js*
-index.d.ts
+index.d*
+HomebridgeKeeper.js*
+HomebridgeKeeper.d*

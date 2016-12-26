@@ -1,9 +1,10 @@
 import { inherits } from 'util';
 
-import { Util } from './Util';
-import { HomebridgeKeeper as HK } from './HomebridgeKeeper';
+import { HomebridgeKeeper as HK } from '../HomebridgeKeeper';
 
-import { Projector } from './Projector';
+import { Util } from '../lib/Util';
+import { Projector } from '../lib/Projector';
+
 import { ProjectorStateController, ProjectorState } from './ProjectorState';
 
 export class ProjectorAccessory {
@@ -18,7 +19,16 @@ export class ProjectorAccessory {
   private service: any;
 
   constructor(private log: any, private config: any) {
-    this.projector = new Projector();
+    this.projector = new Projector({
+      remote: 'benq',
+      keys: {
+        powerOn: 'KEY_F1',
+        powerOff: 'KEY_F2',
+        mute: 'KEY_MUTE',
+        volumeUp: 'KEY_VOLUMEUP',
+        volumeDown: 'KEY_VOLUMEDOWN'
+      }
+    });
     this.stateController = new ProjectorStateController(ProjectorAccessory.CONFIG_FILE);
 
     this.informationService = new HK.hap.Service.AccessoryInformation();

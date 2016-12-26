@@ -1,5 +1,5 @@
-import { ProjectorAccessory } from './lib/ProjectorAccessory';
-import { HomebridgeKeeper as HK } from './lib/HomebridgeKeeper';
+import { HomebridgeKeeper as HK } from './HomebridgeKeeper';
+import { ProjectorAccessory } from './accessory/ProjectorAccessory';
 
 export = (homebridge: any) => {
   HK.hap = homebridge.hap;
