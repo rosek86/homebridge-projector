@@ -5941,7 +5941,7 @@
 <path d="M9.119,36.266c0.791,-0.076,1.168,-0.076,1.169,-0.076l-0.039,-22.744L10.249,8.619c0,-1.471,0.936,-2.729,2.289,-3.35l-0.026,-0.053l-1.377,-1.511C9.293,4.707,8.056,6.527,8.056,8.617l0.04,27.754C8.096,36.371,8.328,36.34,9.119,36.266z" xmlns="http://www.w3.org/2000/svg" id="path38_1_" fill="#FFFFFF"/>
 <path d="M13.425,36.102c6.521,0,8.485,0.719,8.485,0.719l0.003,0.186l-15.647,0.02L6.266,36.82C6.266,36.82,6.905,36.102,13.425,36.102z" xmlns="http://www.w3.org/2000/svg" id="color_path32_2_"/>
 </g>
-</g></g></g><g partID='66220'><g transform='translate(386.399,253.35)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+</g></g></g><g partID='66220'><g transform='translate(386.399,267.75)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
  <rect xmlns="http://www.w3.org/2000/svg" id="connector0pin" x="0" y="22.081" height="1" fill="none" width="2.15998"/>
  <rect xmlns="http://www.w3.org/2000/svg" id="connector1pin" x="7.18095" y="22.081" height="1" fill="none" width="2.15998"/>
  <rect xmlns="http://www.w3.org/2000/svg" id="connector2pin" x="14.3669" y="22.081" height="1" fill="none" width="2.15998"/>
@@ -5999,9 +5999,9 @@
  <rect xmlns="http://www.w3.org/2000/svg" id="Reflex_gold" x="22.019" y="0.42336" height="1.62" fill="#FFFF33" width="0.70272" opacity="0.5"/>
  <rect xmlns="http://www.w3.org/2000/svg" id="Reflex_extra" x="22.019" y="0.78336" height="0.7488" fill="#FFFFFF" width="0.70272" opacity="0.5"/>
 </g>
-</g></g><path stroke='#8c8c8c' stroke-width='2.15136' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M421.32,262.585L421.32,237.969' />
-<path stroke='#8c8c8c' stroke-width='2.15136' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M414.117,262.585L414.117,237.969' />
-<g partID='72750'><g transform='translate(425.846,291.792)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+</g></g><path stroke='#8c8c8c' stroke-width='2.15136' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M421.32,269.785L421.32,245.169' />
+<path stroke='#8c8c8c' stroke-width='2.15136' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M414.117,269.785L414.117,245.169' />
+<g partID='72750'><g transform='translate(425.846,298.992)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
  <rect xmlns="http://www.w3.org/2000/svg" id="connector0pin" x="3.45096" y="25.421" height="0.72" fill="none" width="2.15208"/>
  <rect xmlns="http://www.w3.org/2000/svg" id="connector1pin" x="10.651" y="25.421" height="0.72" fill="none" width="2.15424"/>
  <g xmlns="http://www.w3.org/2000/svg" id="connector0leg" stroke="#8C8C8C" stroke-linecap="round" y1="40.565" y2="74.754" x1="6.287" x2="6.287" stroke-width="2.15136" fill="none"/>
