@@ -11,7 +11,14 @@ The infra-read receiver and transmitter has to be connected to Raspberry Pi and 
 
 ## Required Parts
 
-[Proto Plate](https://www.adafruit.com/products/2310)
+* [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+* [Proto Plate](https://www.adafruit.com/products/2310)
+* [940 nm Infrared emitting diode](http://uk.rs-online.com/web/p/ir-leds/8187663/)
+* [38kHz Infrared Receiver](http://uk.rs-online.com/web/p/ir-receivers/7085086/)
+* Hook up wires
+* Resistors
+
+## Hook up
 
 TODO: hook up drawing goes here 
 
